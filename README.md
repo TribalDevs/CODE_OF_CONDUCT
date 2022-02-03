@@ -10,7 +10,7 @@ You, as a member of Tribal Devs community, are expected to follow the Code of Co
 Any disrespectful comments or actions related to sexual orientation, religion, gender, appearance,technical skills or any kind of harassment from members of Tribal Devs are not acceptable within our community.
 
 # How to report
-In case of any incident, please report it to us by <a href="mailto:jordi8101@gmail.com">email</a>
+In case of any incident, please report it to us by <a href="mailto:tribaldevs.tj@gmail.com">email</a>
 
 # What will happen if people break it
 If any member of the community dont follow our Code of Conduct, the member will be sanctioned with the expulsion as a member of our community and removed from any project on course.
